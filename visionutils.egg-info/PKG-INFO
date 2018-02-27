@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: visionutils
+Version: 0.2.0
+Summary: a colection of camera and image helper functions for working machine vision
+Home-page: http://github.com/mchatten/visionutils
+Author: Michael Chatten
+Author-email: chattenm@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
